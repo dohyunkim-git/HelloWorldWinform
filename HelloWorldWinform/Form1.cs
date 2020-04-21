@@ -24,7 +24,7 @@ namespace HelloWorldWinform
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("알림 본문", "알림 제목");
         }
     }
 }
